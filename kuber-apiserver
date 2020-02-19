@@ -1,2 +1,2 @@
 ＃需要加强的额外名称版本
-FROM k8s.gcr.io/kuber-apiserver:v1.14.1
+FROM k8s.gcr.io/kuber-apiserver:v1.17.0
