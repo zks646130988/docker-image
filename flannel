@@ -1,1 +1,1 @@
-FROM coreos/flannel/releases/flanneld-v0.11.0-amd64.docker
+FROM coreos/flannel:v0.11.0-amd64.docker
