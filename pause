@@ -1,1 +1,1 @@
-FROM crawlabteam/crawlab
+FROM mongo:4.2
