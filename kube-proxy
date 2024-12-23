@@ -1,1 +1,1 @@
-FROM rapidminer/rapidminer:4.5
+FROM rapidminer/rapidminer:9.10.1
