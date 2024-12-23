@@ -1,1 +1,1 @@
-FROM h2o
+FROM rapidminer/rapidminer-server:latest
