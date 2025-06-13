@@ -1,1 +1,1 @@
-FROM centos7.9
+FROM centos7.9:latest
